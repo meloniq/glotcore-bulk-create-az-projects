@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<ruleset name="GlotCore Bulk Create A-Z Projects">
+	<description>GlotCore Bulk Create A-Z Projects rules for PHP_CodeSniffer</description>
+
+	<rule ref="WordPress">
+	</rule>
+</ruleset>
